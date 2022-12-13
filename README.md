@@ -1,3 +1,3 @@
-# prepare_gene_sets
+# Make gene set of differernt sources available
 
-It is time to make gene sets
+A bird in the hand is worth two in the bush.
